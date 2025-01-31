@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+
 import { DB_NAME } from "../constants.js";
 import { user_model } from "../models/user.model.js";
 
